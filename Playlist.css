@@ -17,7 +17,7 @@ body {
 }
 /* removing all the styles from the links and formatting them white */
 a {
-	text-decoration: none;
+	text-decoration: underline;
 	color: white;
 }
 /* removing margin for all the textual elements */
